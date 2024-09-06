@@ -6,4 +6,4 @@ Tech Stack:
 React
 Tailwind
 
-Deployed Link: 
+Deployed Link: https://vyb-store-assign.netlify.app/
